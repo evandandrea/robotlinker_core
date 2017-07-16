@@ -2,6 +2,7 @@
 
 * travis: [![Build
 Status](https://travis-ci.org/robotlinker/robotlinker_core.svg?branch=master)](https://travis-ci.org/robotlinker/robotlinker_core)
+* snap: [![Snap Status](https://build.snapcraft.io/badge/robotlinker/robotlinker_core.svg)](https://build.snapcraft.io/user/robotlinker/robotlinker_core)
 
 ## Prerequisite
 ### UR Simulator
